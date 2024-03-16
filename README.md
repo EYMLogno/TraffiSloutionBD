@@ -65,3 +65,6 @@ We were unable to find the following Fonts, Please add manually to ```assets/fon
 InterBold.ttf
 InterRegular.ttf
 ```
+
+# Screenshot of App UI
+![Image Alt text](images/Slide 16_9 - 2.png "ScreenShot")
