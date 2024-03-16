@@ -66,5 +66,5 @@ InterBold.ttf
 InterRegular.ttf
 ```
 
-# Screenshot of App UI
+### Screenshot of App UI
 ![Image Alt text](images/Slide16_9-2.png "ScreenShot")
