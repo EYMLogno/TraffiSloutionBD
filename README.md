@@ -67,4 +67,4 @@ InterRegular.ttf
 ```
 
 # Screenshot of App UI
-![Image Alt text](images/Slide 16_9 - 2.png "ScreenShot")
+![Image Alt text](images/Slide16_9-2.png "ScreenShot")
